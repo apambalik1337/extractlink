@@ -5,7 +5,7 @@
 
 ## INSTALLATION
 
-`git clone https://github.com/XM1N21KR1/Extract-link-from-text`
+`git clone https://github.com/XM1N21KR1/extractlink`
 
 `cd Extract-link-from-text`
 
