@@ -6,6 +6,7 @@
 This tool only can extract a LINK/URL NOT A DOMAIN 
 
 LINK : https://example.com/ ✅
+
 DOMAIN : example.com ❌
 
 ## INSTALLATION
