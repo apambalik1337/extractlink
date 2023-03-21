@@ -5,5 +5,7 @@
 
 ## INSTALLATION
 
+`git clone https://github.com/XM1N21KR1/Extract-link-from-text`
+`cd Extract-link-from-text`
 `pip install -r requirements.txt`
 `python t.py`
