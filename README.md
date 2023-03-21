@@ -3,6 +3,10 @@
 
 ## NOTED : Please install the requirements before run the tool
 
+This tool only can extract a LINK/URL NOT A DOMAIN 
+LINK : https://example.com/
+DOMAIN : example.com
+
 ## INSTALLATION
 
 `git clone https://github.com/XM1N21KR1/extractlink`
