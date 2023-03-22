@@ -13,7 +13,7 @@ DOMAIN : example.com ❌
 
 `git clone https://github.com/XM1N21KR1/extractlink`
 
-`cd Extract-link-from-text`
+`cd extractlink`
 
 `pip install -r requirements.txt`
 
